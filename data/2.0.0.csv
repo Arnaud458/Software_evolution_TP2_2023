@@ -1,4 +1,4 @@
-files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.94  T=1.04 s (1033.8 files/s 170331.0 lines/s)"
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.94  T=0.95 s (1129.7 files/s 186129.8 lines/s)"
 717,Java,9843,29371,65580
 49,C,4141,2860,21063
 27,Bourne Shell,1179,1179,7946
